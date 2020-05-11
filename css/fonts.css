@@ -1,0 +1,60 @@
+body {
+  font-family: 'Helvetica', sans-serif; }
+
+h1 {
+  font-size: 3.052em; }
+
+h2 {
+  font-size: 2.441em; }
+
+h3 {
+  font-size: 1.953em; }
+
+h4 {
+  font-size: 1.563em; }
+
+h5 {
+  font-size: 1.25em; }
+
+h1, h2, h3, h4, h5 {
+  font-family: "Alegreya Sans SC", sans-serif; }
+
+nav, article, footer, p {
+  line-height: 1.7;
+  font-family: "Red Hat Text", sans-serif; }
+
+nav {
+  font-weight: bold; }
+
+p, .points {
+  font-size: 18px;
+  letter-spacing: .9px;
+  word-spacing: 2px; }
+
+@media (min-width: 768px) {
+  nav, p, footer {
+    line-height: 1.5; }
+
+  h1 {
+    font-size: 5.653em; }
+
+  h2 {
+    font-size: 3.998em;
+    line-height: .9;
+    margin: 0; }
+
+  h3 {
+    font-size: 2.827em;
+    line-height: .9;
+    margin: 0; }
+
+  h4 {
+    font-size: 1.999em;
+    line-height: .9;
+    margin: 0; }
+
+  h5 {
+    font-size: 1.414em;
+    line-height: 1.2; } }
+
+/*# sourceMappingURL=fonts.css.map */
